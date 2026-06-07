@@ -623,6 +623,17 @@ h3 {
   font-size: 1rem;
 }
 
+/* My Direction highlight box */
+.direction-box {
+  background: #eefafa;
+  border-left: 6px solid var(--turquoise-dark);
+  border-radius: 10px;
+  padding: 24px 26px;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  color: var(--ink);
+}
+
 /* Contact page visual */
 .contact-visual {
   position: relative;
